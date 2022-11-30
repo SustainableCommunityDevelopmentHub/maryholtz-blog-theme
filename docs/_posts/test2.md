@@ -7,10 +7,6 @@ featuredimg: ''
 summary: ''
 
 ---
-**jfjhgfjkhg**
-
-> wow cool
-
 About Mary Holtz
 
 Native Floridian and artist, Mary Holtz, has always had the passion and skills for interpreting the visual whether seen through the eyes or felt in the spirit. Her life passions are healing the needy and creating art in mixed mediums. An avid photographer, Mary has the experience and education in acrylics, wire wrapping jewelry, crafting, Sumi-e-ink art, Japanese floral design, Ikebana, and intuitive pastel art.
