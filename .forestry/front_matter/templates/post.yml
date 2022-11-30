@@ -24,6 +24,7 @@ fields:
   name: summary
   label: summary
 pages:
+- docs/_posts/More.md
 - docs/_posts/art-statement.md
 - docs/_posts/test1.md
 - docs/_posts/test2.md
