@@ -24,7 +24,6 @@ fields:
   name: summary
   label: summary
 pages:
-- docs/_posts/policy-analysis.md
 - docs/_posts/promoting-right-use-of-resources-and-human-rights.md
 - docs/_posts/reforestation.md
 - docs/_posts/solar-furnaces.md
