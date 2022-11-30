@@ -1,5 +1,7 @@
 
-# VuePress Theme Mediumish
+# Mary holtz art
+
+# Dr Mary Holtz
 
 This is a free VuePress Bootstrap Blogging Theme, Medium styled, fully featured: multi author, search, categories, newsletter, Disqus, RSS, sitemap, TOC, Prism, 100% Github pages compatible, ready for automatic deployment.
 
