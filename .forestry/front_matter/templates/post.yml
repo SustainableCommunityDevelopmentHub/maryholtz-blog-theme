@@ -24,8 +24,6 @@ fields:
   name: summary
   label: summary
 pages:
-- docs/_posts/2019-2-26-markdown-slot-3.md
-- docs/_posts/permaculture.md
 - docs/_posts/policy-analysis.md
 - docs/_posts/promoting-right-use-of-resources-and-human-rights.md
 - docs/_posts/reforestation.md
