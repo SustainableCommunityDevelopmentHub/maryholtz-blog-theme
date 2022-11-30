@@ -24,6 +24,4 @@ fields:
   name: summary
   label: summary
 pages:
-- docs/_posts/reforestation.md
-- docs/_posts/solar-furnaces.md
 - docs/_posts/upcycling.md
