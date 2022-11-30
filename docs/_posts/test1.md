@@ -8,3 +8,5 @@ summary: ''
 
 ---
 ![](/assets/img/maryholtz-spirit-guide.jpg)
+
+bio
